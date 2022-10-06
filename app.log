@@ -1,0 +1,73 @@
+[2022-Sep-27 21:24:58] Data: description=qqq, company_profile=qqq, benefits=qqq
+[2022-Sep-27 21:28:30] Data: description=awe, company_profile=awe, benefits=awe
+[2022-Sep-27 21:43:34] Data: employment_type=qwer, title=qwer, description=qwer, company_profile=qwer, benefits=qwer, has_company_logo=qwer, has_questions=qwer, requirements=qwer, industry=qwer, function=qwer
+[2022-Sep-27 21:45:58] Data: employment_type=employment_type_Contract, title=qwer, description=qwer, company_profile=qwer, benefits=qwer, has_company_logo=qwer, has_questions=qwer, requirements=qwer, industry=qwer, function=qwer
+[2022-Sep-27 21:48:54] Data: employment_type=['employment_type_Contract'], title=qwer, description=qwer, company_profile=qwer, benefits=qwer, has_company_logo=qwer, has_questions=qwer, requirements=qwer, industry=qwer, function=qwer
+[2022-Sep-27 21:53:37] Data: employment_type=['employment_type_Contract'], title=qwe, description=qwe, company_profile=qwe, benefits=qw, has_company_logo=qwe, has_questions=qwe, requirements=qwe, industry=qwe, function=qwe
+[2022-Sep-27 21:54:22] Data: employment_type=awe, title=qwe, description=qwe, company_profile=qwe, benefits=qw, has_company_logo=qwe, has_questions=qwe, requirements=qwe, industry=qwe, function=qwe
+[2022-Sep-28 21:10:08] Data: employment_type=Full-time, title=Full-time, description=Full-time, company_profile=Full-time, benefits=Full-time, has_company_logo=1, has_questions=1, requirements=1, industry=Full-time, function=Full-time
+[2022-Sep-28 21:15:52] Data: employment_type=Full-time, title=Full-time, description=Full-time, company_profile=Full-time, benefits=Full-time, has_company_logo=1, has_questions=1, requirements=1, industry=Full-time, function=Full-time
+[2022-Sep-28 21:22:24] Data: employment_type=ewer, title=qwer, description=qwer, company_profile=qwer, benefits=qwer, has_company_logo=qwer, has_questions=qwer, requirements=qwer, industry=er, function=qwer
+[2022-Sep-28 21:28:32] Data: employment_type=Full-time, title=Full-time, description=Full-time, company_profile=Full-time, benefits=Full-time, has_company_logo=Full-time, has_questions=Full-time, requirements=Full-time, industry=v, function=Full-time
+[2022-Sep-28 21:47:20] Data: employment_type=qwer, title=qwer, description=qwer, company_profile=qwre, benefits=qwer, has_company_logo=ewer, has_questions=qwer, requirements=qwer, industry=qwer, function=ewer
+[2022-Sep-29 20:27:50] Data: employment_type=qwer, title=qwer, description=qwer, company_profile=ewer, benefits=er, has_company_logo=ewer, has_questions=qwer, requirements=qwer, industry=qwer, function=qwer
+[2022-Sep-29 20:54:32] Data: employment_type=qwer, title=qwer, description=qwer, company_profile=where, benefits=wqer, has_company_logo=wqre, has_questions=where, requirements=where, industry=where, function=rew
+[2022-Sep-29 20:55:22] Data: employment_type=qwer, title=qwer, description=qwer, company_profile=where, benefits=wqer, has_company_logo=wqre, has_questions=where, requirements=where, industry=where, function=rew
+[2022-Sep-29 20:55:29] Data: employment_type=qwer, title=qwer, description=qwer, company_profile=where, benefits=wqer, has_company_logo=wqre, has_questions=where, requirements=where, industry=where, function=rew
+[2022-Sep-29 20:55:47] Data: employment_type=asdf, title=dfasdf, description=saasdf, company_profile=asdf, benefits=asdf, has_company_logo=asdf, has_questions=asfda, requirements=asfda, industry=asdf, function=asdf
+[2022-Sep-29 20:56:35] Data: employment_type=asdf, title=dfasdf, description=saasdf, company_profile=asdf, benefits=asdf, has_company_logo=asdf, has_questions=asfda, requirements=asfda, industry=asdf, function=asdf
+[2022-Sep-29 21:01:51] Data: employment_type=qwer, title=qwerq, description=wer, company_profile=qwer, benefits=qwer, has_company_logo=qwre, has_questions=ewer, requirements=ewer, industry=erwq, function=qewr
+[2022-Sep-29 21:06:31] Data: employment_type=qwer, title=qwer, description=qwerq, company_profile=wer, benefits=qwer, has_company_logo=qwer, has_questions=ewer, requirements=ewer, industry=qwer, function=qwer
+[2022-Sep-29 21:11:10] Data: employment_type=asdf, title=asdf, description=asfd, company_profile=asdf, benefits=asdf, has_company_logo=aside, has_questions=aa, requirements=aa, industry=j, function=j
+[2022-Sep-29 21:15:06] Data: employment_type=asdf, title=asdf, description=asfd, company_profile=asdf, benefits=asdf, has_company_logo=aside, has_questions=aa, requirements=aa, industry=j, function=j
+[2022-Sep-29 21:16:06] Data: employment_type=asdf, title=asdf, description=asfd, company_profile=asdf, benefits=asdf, has_company_logo=aside, has_questions=aa, requirements=aa, industry=j, function=j
+[2022-Sep-29 21:16:34] Data: employment_type=asdf, title=asdf, description=asfd, company_profile=asdf, benefits=asdf, has_company_logo=aside, has_questions=aa, requirements=aa, industry=j, function=j
+[2022-Sep-29 21:17:27] Data: employment_type=asdf, title=asdf, description=asfd, company_profile=asdf, benefits=asdf, has_company_logo=aside, has_questions=aa, requirements=aa, industry=j, function=j
+[2022-Sep-29 21:18:11] Data: employment_type=asdf, title=asdf, description=asfd, company_profile=asdf, benefits=asdf, has_company_logo=aside, has_questions=aa, requirements=aa, industry=j, function=j
+[2022-Sep-29 21:18:54] Data: employment_type=asdf, title=asdf, description=asfd, company_profile=asdf, benefits=asdf, has_company_logo=aside, has_questions=aa, requirements=aa, industry=j, function=j
+[2022-Sep-29 21:20:04] Data: employment_type=asdf, title=asdf, description=asfd, company_profile=asdf, benefits=asdf, has_company_logo=aside, has_questions=aa, requirements=aa, industry=j, function=j
+[2022-Sep-29 21:20:46] Data: employment_type=asdf, title=asdf, description=asfd, company_profile=asdf, benefits=asdf, has_company_logo=aside, has_questions=aa, requirements=aa, industry=j, function=j
+[2022-Sep-29 21:22:00] Data: employment_type=asdf, title=asdf, description=asfd, company_profile=asdf, benefits=asdf, has_company_logo=aside, has_questions=aa, requirements=aa, industry=j, function=j
+[2022-Sep-29 21:22:35] Data: employment_type=asdf, title=asdf, description=asfd, company_profile=asdf, benefits=asdf, has_company_logo=aside, has_questions=aa, requirements=aa, industry=j, function=j
+[2022-Sep-29 21:22:55] Data: employment_type=asdf, title=asdf, description=asfd, company_profile=asdf, benefits=asdf, has_company_logo=aside, has_questions=aa, requirements=aa, industry=j, function=j
+[2022-Sep-29 21:28:16] Data: employment_type=asdf, title=asdf, description=asfd, company_profile=asdf, benefits=asdf, has_company_logo=aside, has_questions=aa, requirements=aa, industry=j, function=j
+[2022-Sep-29 21:31:00] Data: employment_type=asdf, title=asdf, description=asfd, company_profile=asdf, benefits=asdf, has_company_logo=aside, has_questions=aa, requirements=aa, industry=j, function=j
+[2022-Sep-29 21:33:28] Data: employment_type=asdf, title=asdf, description=asfd, company_profile=asdf, benefits=asdf, has_company_logo=aside, has_questions=aa, requirements=aa, industry=j, function=j
+[2022-Sep-29 21:34:09] Data: employment_type=asdf, title=asdf, description=asfd, company_profile=asdf, benefits=asdf, has_company_logo=aside, has_questions=aa, requirements=aa, industry=j, function=j
+[2022-Sep-29 21:37:22] Data: employment_type=asdf, title=asdf, description=asfd, company_profile=asdf, benefits=asdf, has_company_logo=aside, has_questions=aa, requirements=aa, industry=j, function=j
+[2022-Sep-29 21:37:58] Data: employment_type=asdf, title=asdf, description=asfd, company_profile=asdf, benefits=asdf, has_company_logo=aside, has_questions=aa, requirements=aa, industry=j, function=j
+[2022-Sep-29 21:44:18] Data: employment_type=asdf, title=asdf, description=asfd, company_profile=asdf, benefits=asdf, has_company_logo=aside, has_questions=aa, requirements=aa, industry=j, function=j
+[2022-Sep-29 21:44:55] Data: employment_type=asdf, title=asdf, description=asfd, company_profile=asdf, benefits=asdf, has_company_logo=aside, has_questions=aa, requirements=aa, industry=j, function=j
+[2022-Sep-29 21:45:41] Data: employment_type=asdf, title=asdf, description=asfd, company_profile=asdf, benefits=asdf, has_company_logo=aside, has_questions=aa, requirements=aa, industry=j, function=j
+[2022-Sep-29 21:46:50] Data: employment_type=asdf, title=asdf, description=asfd, company_profile=asdf, benefits=asdf, has_company_logo=aside, has_questions=aa, requirements=aa, industry=j, function=j
+[2022-Oct-04 20:53:57] Data: employment_type=awe, title=awe, description=aweqwe, company_profile=awe, benefits=awe, has_company_logo=0, has_questions=0, requirements=0, industry=wer, function=wer
+[2022-Oct-04 21:00:10] Data: employment_type=awe, title=awe, description=aweqwe, company_profile=awe, benefits=awe, has_company_logo=0, has_questions=0, requirements=0, industry=wer, function=wer
+[2022-Oct-04 21:01:10] Data: employment_type=awe, title=awe, description=aweqwe, company_profile=awe, benefits=awe, has_company_logo=0, has_questions=0, requirements=0, industry=wer, function=wer
+[2022-Oct-04 21:03:00] Data: employment_type=awe, title=awe, description=aweqwe, company_profile=awe, benefits=awe, has_company_logo=0, has_questions=0, requirements=0, industry=wer, function=wer
+{'success': True, 'predictions': 0.036863048}
+[2022-Oct-04 21:03:56] Data: employment_type=awe, title=awe, description=aweqwe, company_profile=awe, benefits=awe, has_company_logo=0, has_questions=0, requirements=0, industry=wer, function=wer
+kuku
+[2022-Oct-04 21:06:07] Data: employment_type=awe, title=awe, description=aweqwe, company_profile=awe, benefits=awe, has_company_logo=0, has_questions=0, requirements=0, industry=wer, function=wer
+[[0.963137   0.03686305]]
+kuku
+[2022-Oct-04 21:06:46] Data: employment_type=awe, title=awe, description=aweqwe, company_profile=awe, benefits=awe, has_company_logo=0, has_questions=0, requirements=0, industry=wer, function=wer
+[[0.963137   0.03686305]]
+kuku
+[2022-Oct-04 21:07:16] Data: employment_type=awe, title=awe, description=aweqwe, company_profile=awe, benefits=awe, has_company_logo=0, has_questions=0, requirements=0, industry=wer, function=wer
+{'success': True, 'predictions': 0.036863048}
+[2022-Oct-04 21:08:30] Data: employment_type=qwer, title=qwer, description=qwer, company_profile=qwer, benefits=qwer, has_company_logo=qwer, has_questions=qwer, requirements=qwer, industry=qwer, function=ewer
+{'success': True, 'predictions': '0.036863048'}
+[2022-Oct-04 21:09:33] Data: employment_type=qwer, title=qwer, description=qwer, company_profile=qwer, benefits=qwer, has_company_logo=qwer, has_questions=qwer, requirements=qwer, industry=qwer, function=query
+{'success': True, 'predictions': '0.036863048'}
+[2022-Oct-04 21:10:09] Data: employment_type=qwer, title=qwer, description=qwer, company_profile=qwer, benefits=qwer, has_company_logo=qwer, has_questions=qwer, requirements=qwer, industry=qwer, function=query
+0.036863048
+[2022-Oct-04 21:14:33] Data: title=qwer, description=qwer, company_profile=qwer, benefits=qwer, has_company_logo=1, has_questions=1, requirements=1, industry=qwer, function=query
+[2022-Oct-04 21:15:36] Data: title=qwer, description=qwer, company_profile=qwer, benefits=qwer, has_company_logo=1, has_questions=1, requirements=1, industry=qwer, function=query
+[2022-Oct-04 21:15:45] Data: title=qwer, description=qwer, company_profile=qwer, benefits=qwer, has_company_logo=1, has_questions=0, requirements=0, industry=qwer, function=query
+[2022-Oct-04 21:20:11] Data: title=Software Developer (TeamCity for .NET), description=TeamCity is a popular continuous integration and build management server used by thousands of developers throughout the world. This server application is built using the J2EE technology and allows running multiple builds and tests under different platforms and environments simultaneously. As a team member, you will: Improve the support for .NET technologies in TeamCity making the product more powerful for .NET developers. Provide technical support for TeamCity customers. We are looking for an expert who is: Highly skilled in both Java and .NET Able to take responsibility for developing components/subsystems of the complicated server product. Well-informed about the .NET technologies world and capable of analyzing new trends of the whole ecosystem., company_profile=Essential tools for software developers and teams We build our software so you can enjoy building yours, benefits=Essential tools for software developers and teams We build our software so you can enjoy building yours, has_company_logo=1, has_questions=1, requirements=1, industry=Software development, function=Software Developer
+[2022-Oct-04 21:37:43] Data: title=qwer, description=qwer, company_profile=qwer, benefits=ewer, has_company_logo=2, has_questions=2, requirements=2, industry=ewer, function=qwer
+[2022-Oct-04 21:39:03] Data: title=qwer, description=qwer, company_profile=qwer, benefits=ewer, has_company_logo=2, has_questions=2, requirements=2, industry=ewer, function=qwer
+[2022-Oct-04 21:40:19] Data: title=qwer, description=qwer, company_profile=ewer, benefits=ewer, has_company_logo=1, has_questions=1, requirements=1, industry=ewer, function=where
+[2022-Oct-04 21:49:43] Data: title=qwe, description=qwer, company_profile=qwer, benefits=qwer, has_company_logo=1, has_questions=1, requirements=1, industry=sadf, function=asdf
+[2022-Oct-04 21:50:42] Data: title=qwe, description=qwer, company_profile=qwer, benefits=qwer, has_company_logo=1, has_questions=1, requirements=1, industry=sadf, function=asdf
+[2022-Oct-04 21:51:35] Data: title=asd, description=qwer, company_profile=qwer, benefits=qwer, has_company_logo=1, has_questions=1, requirements=1, industry=ewer, function=ewer
